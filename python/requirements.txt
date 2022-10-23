@@ -1,0 +1,6 @@
+unityagents
+tensorflow
+torch
+numpy
+matplotlib
+tqdm
